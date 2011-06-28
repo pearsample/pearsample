@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+<name>pearsample.github.com/pearsample</name>
+<summary>pearsample's PEAR Channel Server</summary>
+<alias>pearsample</alias>
+<url>http://pearsample.github.com/pearsample</url>
+</server>
